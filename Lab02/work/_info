@@ -1,0 +1,270 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/richard/Documents/2020SP/CSCI113/Lab02
+Ccfg_tb
+eMUX_2x1_TB
+aTB
+Z1 DEx4 work 7 mux_2x1 0 22 WAZaDcl5N7AeS26_zmDaL2
+DAx4 work 10 mux_2x1_tb 2 tb 22 YKeM;a0H;]47hF51;23^n1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 DEx4 work 10 mux_2x1_tb 0 22 P;h;zZLPX7aWNZ24BR4lI2
+Z5 w1580932857
+R0
+Z6 8/home/richard/Documents/2020SP/CSCI113/Lab02/MUX_2x1_TB.vhd
+Z7 F/home/richard/Documents/2020SP/CSCI113/Lab02/MUX_2x1_TB.vhd
+l0
+L78
+V?hMmDzCUKPW2o5D9C8G[>3
+!s100 o;zHU:k`71@Mck`;Em:2o0
+Z8 OV;C;10.5b;63
+32
+Z9 !s110 1580932990
+!i10b 0
+Z10 !s108 1580932990.000000
+Z11 !s90 -reportprogress|300|-work|work|/home/richard/Documents/2020SP/CSCI113/Lab02/MUX_2x1_TB.vhd|
+Z12 !s107 /home/richard/Documents/2020SP/CSCI113/Lab02/MUX_2x1_TB.vhd|
+!i113 1
+Z13 o-work work
+Z14 tExplicit 1 CvgOpt 0
+Emux_2x1
+Z15 w1580932980
+R2
+R3
+R0
+Z16 8/home/richard/Documents/2020SP/CSCI113/Lab02/MUX_2x1.vhd
+Z17 F/home/richard/Documents/2020SP/CSCI113/Lab02/MUX_2x1.vhd
+l0
+L4
+VWAZaDcl5N7AeS26_zmDaL2
+!s100 LA<V3hffb;V2Q8?QNbC390
+R8
+32
+Z18 !s110 1580932987
+!i10b 1
+Z19 !s108 1580932987.000000
+Z20 !s90 -reportprogress|300|-work|work|/home/richard/Documents/2020SP/CSCI113/Lab02/MUX_2x1.vhd|
+Z21 !s107 /home/richard/Documents/2020SP/CSCI113/Lab02/MUX_2x1.vhd|
+!i113 1
+R13
+R14
+Abehav
+R2
+R3
+R1
+l13
+L12
+V:1SG:DTcJeT;MEDIl3Gji1
+!s100 JnFieXQQzGA>mQA_[Ul6b2
+R8
+32
+R18
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R13
+R14
+Emux_2x1_tb
+R5
+R2
+R3
+R0
+R6
+R7
+l0
+L4
+VP;h;zZLPX7aWNZ24BR4lI2
+!s100 3M]Kh3>C0z>=zOnW_FmBk0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Atb
+R2
+R3
+R4
+l19
+L7
+Z22 VYKeM;a0H;]47hF51;23^n1
+Z23 !s100 <;[jQJB3jR2ooO05=AE;W1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Enot_gate
+Z24 w1580929802
+R2
+R3
+R0
+Z25 8/home/richard/Documents/2020SP/CSCI113/Lab02/NOT_gate.vhd
+Z26 F/home/richard/Documents/2020SP/CSCI113/Lab02/NOT_gate.vhd
+l0
+L4
+V<E7IQg2lj7>gD_Vj;_]7V1
+!s100 f7Yn^T:X<elf=zWz6SzRz3
+R8
+32
+Z27 !s110 1580929807
+!i10b 1
+Z28 !s108 1580929807.000000
+Z29 !s90 -reportprogress|300|-work|work|/home/richard/Documents/2020SP/CSCI113/Lab02/NOT_gate.vhd|
+Z30 !s107 /home/richard/Documents/2020SP/CSCI113/Lab02/NOT_gate.vhd|
+!i113 1
+R13
+R14
+Abehav
+R2
+R3
+DEx4 work 8 not_gate 0 22 <E7IQg2lj7>gD_Vj;_]7V1
+l11
+L10
+V0nm51CS@^S2l=nPCXl:4C1
+!s100 ^Rf5RN:NEn=14C;zNohZk3
+R8
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R13
+R14
+Enot_gate_tb
+Z31 w1580928992
+R2
+R3
+R0
+Z32 8/home/richard/Documents/2020SP/CSCI113/Lab02/NOT_gate_TB.vhd
+Z33 F/home/richard/Documents/2020SP/CSCI113/Lab02/NOT_gate_TB.vhd
+l0
+L4
+VAznKUb492WzZPO6NY1zGa0
+!s100 lP_j5G?ZIH>CFKK8M;E4M0
+R8
+32
+Z34 !s110 1580929813
+!i10b 1
+Z35 !s108 1580929813.000000
+Z36 !s90 -reportprogress|300|-work|work|/home/richard/Documents/2020SP/CSCI113/Lab02/NOT_gate_TB.vhd|
+Z37 !s107 /home/richard/Documents/2020SP/CSCI113/Lab02/NOT_gate_TB.vhd|
+!i113 1
+R13
+R14
+Atb
+R2
+R3
+DEx4 work 11 not_gate_tb 0 22 AznKUb492WzZPO6NY1zGa0
+l17
+L7
+VNj4<mT::8fU]X`eF@[>ZN0
+!s100 e=o8;8A`6JY5@IRa0b=IU2
+R8
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R13
+R14
+Eor_gate
+Z38 w1580929214
+R2
+R3
+R0
+Z39 8/home/richard/Documents/2020SP/CSCI113/Lab02/OR_gate.vhd
+Z40 F/home/richard/Documents/2020SP/CSCI113/Lab02/OR_gate.vhd
+l0
+L4
+V1c;zJnO7W=7NAH<6SEj:f0
+!s100 Oi0m_Y5a:6XN70RCU704[1
+R8
+32
+Z41 !s110 1580929218
+!i10b 1
+Z42 !s108 1580929217.000000
+Z43 !s90 -reportprogress|300|-work|work|/home/richard/Documents/2020SP/CSCI113/Lab02/OR_gate.vhd|
+Z44 !s107 /home/richard/Documents/2020SP/CSCI113/Lab02/OR_gate.vhd|
+!i113 1
+R13
+R14
+Abehav
+R2
+R3
+DEx4 work 7 or_gate 0 22 1c;zJnO7W=7NAH<6SEj:f0
+l12
+L11
+V<IEKa?8cSEb0S05k52Mzm3
+!s100 0aS[ndb:EEO[dUcXST:]f0
+R8
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R13
+R14
+Eor_gate_tb
+Z45 w1580928991
+R2
+R3
+R0
+Z46 8/home/richard/Documents/2020SP/CSCI113/Lab02/OR_gate_TB.vhd
+Z47 F/home/richard/Documents/2020SP/CSCI113/Lab02/OR_gate_TB.vhd
+l0
+L4
+V]MGZB]TT<18U0kF]@ecF71
+!s100 Ug5M:ejPSQ0KJBfQ]lWC[0
+R8
+32
+Z48 !s110 1580929222
+!i10b 1
+Z49 !s108 1580929222.000000
+Z50 !s90 -reportprogress|300|-work|work|/home/richard/Documents/2020SP/CSCI113/Lab02/OR_gate_TB.vhd|
+Z51 !s107 /home/richard/Documents/2020SP/CSCI113/Lab02/OR_gate_TB.vhd|
+!i113 1
+R13
+R14
+Atb
+R2
+R3
+DEx4 work 10 or_gate_tb 0 22 ]MGZB]TT<18U0kF]@ecF71
+l18
+L7
+VGg[hnNc:BFF2N6U@b2T6H2
+!s100 FPVikY7LiJX>c<5_BVADA0
+R8
+32
+R48
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R13
+R14
